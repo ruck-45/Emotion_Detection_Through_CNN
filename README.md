@@ -4,4 +4,4 @@ The emotion-recognition-model Notebook contains training and saving of the CNN m
 The  test_CNN Notebook contains implementing CNN model trained model to use camera nad detect Emotions.
 
 The expression_detection_model.h5 is the saved CNN module.
-the zip file contains all Train And Test Data used to train the CNN model.
+face-expression-recognition-dataset from kaggle is used to train the CNN used here.
